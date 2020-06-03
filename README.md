@@ -1,3 +1,3 @@
-# My First MEARN App !
+# My First MERN App !
 
 My first fullstack experience
